@@ -1,0 +1,8 @@
+@import url("bootstrap.css");
+.top{
+  background: url("../images/h_img.jpg") no-repeat center center/cover;
+  color: white;
+  height: 100%;
+  text-align: center;
+}
+
