@@ -72,6 +72,10 @@
   margin-bottom: 3%;
   color: white;
 }
+#conts button{
+  align-items: center;
+  background: cornflowerblue;
+}
 #btm p{
   text-align: center;
   align-content: center;
@@ -88,6 +92,7 @@ input{
 textarea{
   background: none;
   color: rgb(255, 255, 255);
+  margin-bottom: 2%;
 }
 #social{
   justify-content: center;
@@ -111,8 +116,9 @@ textarea{
 .description{
   position: absolute;
   display: none;
+  padding: 2rem;
   border-style: solid;
-  border-width: 1px; 
+  border-width: 2px; 
 }
 #steptwo{
     position: relative;
