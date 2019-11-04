@@ -111,4 +111,55 @@ textarea{
 .description{
   position: absolute;
   display: none;
+  border-style: solid;
+  border-width: 1px; 
+}
+#steptwo{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;  
+}
+#stepthree{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;  
+}
+#stepfour{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;  
+}
+#stepfive{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;  
+}
+#stepsix{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;  
+}
+#stepseven{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;  
+}
+#stepeight{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;  
 }
