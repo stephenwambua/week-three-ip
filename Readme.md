@@ -3,7 +3,18 @@
 This is the landing page of a studio. It is a studion that offers software development in various fields
 Its created to create awarness to people of the company's capability
 #### By **Stephen Wambua**
-### Screen shots
+# screenshot
+
+![Home page](images/welcome.png)
+This is the first page to the website
+
+![About section](images/about.png)
+
+This is the area youu find the companies description
+
+![form section](images/form.png)
+
+This is where a user input their data
 
 ## Setup/Installation Requirements
 * You need computer or tablet or smart phone to access the site
