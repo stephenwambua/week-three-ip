@@ -3,6 +3,7 @@
 This is the landing page of a studio. It is a studion that offers software development in various fields
 Its created to create awarness to people of the company's capability
 #### By **Stephen Wambua**
+
 # screenshot
 
 ![Home page](images/welcome.png)
