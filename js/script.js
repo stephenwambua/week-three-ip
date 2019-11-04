@@ -1,3 +1,20 @@
+var submit = document.getElementById("submit");
+submit.addEventListener("click", function(e){
+    e.preventDefault();
+    var email = document.getElementById("email").value;
+    var name = document.getElementById("name").value;
+    var comment = document.getElementById("comment").value;
+    if (name == "") {
+        alert("Enter your name in the form");
+    }else if(email == ""){
+       alert("Enter a valid email adress")
+    }else if(comment == ""){
+        alert("Please enter your comment in the comment section")
+    }else{
+        alert("Your masage has been received");
+    }
+} )
+
 $('#dsn').click(function(){
     $('#dsn p').toggle();
     $('#dsn img').toggle();
