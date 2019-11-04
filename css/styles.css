@@ -100,3 +100,15 @@ textarea{
   text-align: center;
   margin-top: 2%;
 }
+#firststep {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.description{
+  position: absolute;
+  display: none;
+}
