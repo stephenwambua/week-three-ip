@@ -60,7 +60,7 @@ $('#stepfive').mouseleave(function(){
 $('#stepsix').mouseenter(function(){
     $('#stepsix p').show();
 });
-$('#stepfour').mouseleave(function(){
+$('#stepsix').mouseleave(function(){
     $('#stepsix p').hide();
 });
 $('#stepseven').mouseenter(function(){
